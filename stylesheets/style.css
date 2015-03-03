@@ -176,10 +176,11 @@ img#logo {
 .sub-pages { border-top: solid 1px #646565; padding: 18px 0 0; margin: 18px 0px 0px 0px; }
 .sub-block {width: 100%; }
 .sub-block-title   {float: left; margin-top: 10px; margin-bottom: 40px; width: 100%; }
-.sub-block h3 { font-size: 12px; text-transform: uppercase; margin: 0px; padding: 20px 0 10px; }
+.sub-block h3 { font-size: 16px; text-transform: uppercase; margin: 0px; padding: 20px 0 10px; }
 .sub-block a { color: #ee3224 ; }
 .sub-block a:hover { color: #990000; }
-.sub-block-txt  {font-size: 12px; text-align: justify; line-height: 20px; padding-right: 10px; }
+.sub-block-txt  {font-size: 14px; text-align: justify; line-height: 20px; padding-right: 10px; }
+.sub-block-txt2 {font-size: 14px; color: #990000; padding: 0px;}
 
 .sub2-pages { height: 500px; padding: 0px 0 0; margin: 0px 0px 0px 0px; }
 .sub2-block {width: 100%; }
