@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 body { line-height: 1; }
-ol, ul { list-style: none; }
+ol, ul { list-style: circle; }
 blockquote, q { quotes: none; }
 blockquote:before, blockquote:after,q:before, q:after { content: ''; content: none; }
 table { border-collapse: collapse; border-spacing: 0px; }
@@ -28,7 +28,7 @@ body { font-family: 'News Cycle', Arial, sans-serif; font-size: 12px; line-heigh
 a { outline: none; text-decoration: none; color: #646565; }
 a:hover { color: #333333; }
 a:visited { color: #646565; } 
-p { padding: 5px 0px 10px 0px; }
+p { padding: 5px 0px 12px 0px; }
 h1, h2, h3, h4, h5, h6 { padding: 15px 10px 10px 10px; letter-spacing: 1px; }
 h1 { font-size: 30px; }
 h2 { font-size: 26px; }
@@ -36,6 +36,7 @@ h3 { font-size: 24px; }
 h4 { font-size: 22px; }
 h5 { font-size: 20px; }
 h6 { font-size: 18px; }
+h7 { font-size: 16px; padding: 5px 0px 15px 0px;}
 strong, b { font-weight: bold; }
 i, em { font-style: italic; }
 
